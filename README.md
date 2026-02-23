@@ -143,31 +143,6 @@
 ![](https://github.com/Suriyaprakash2023/Suriyaprakash2023/blob/main/languages.svg)
 
 <br>
-<br>
-
-## 🏆 GitHub Trophies
-![](https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png)
-
-<br>
-<br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
-
-<br>
-<div align='left'>
-
-<ul>
-
-<a href="mailto:sksuriyakannan@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail:  Suriya Prakash-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-
-
-
-</ul>
-</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
