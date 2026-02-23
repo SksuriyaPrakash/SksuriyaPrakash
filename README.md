@@ -11,11 +11,9 @@
 
 - A passionate Self-taught Full-Stack developer 🥰
 
-- Help to Python and JS community on <a target="_blank" href="https://www.python.org/">stackoverflow</a> at spare time 🤩
-
 - Ask from me anything you want, If I am alive I will answer within seconds 😉
 
-- Currently learning DevOps and AI/ML 😎
+- Currently learning DevOps and AI/DL 😎
 - View My <a target="_blank" href="https://portfolio-efp6.onrender.com" target="_blank">Portfolio</a>🙌
 <br>
 
