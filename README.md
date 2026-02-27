@@ -12,7 +12,7 @@
 - A passionate Self-taught Full-Stack developer 🥰
 
 - Currently learning AI 😎
-- View My <a target="_blank" href="https://portfolio-efp6.onrender.com" target="_blank">Portfolio</a>🙌
+- View My <a target="_blank" href="https://suriya-blond.vercel.app" target="_blank">Portfolio</a>🙌
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
